@@ -1,15 +1,9 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarisinyal.com%2Faplikasi-kalkulator%2F&psig=AOvVaw2Lmz4MzHovhLqxjKfHGpP4&ust=1685713554010000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi3qr-aov8CFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/adearya/KalkulatorSederhana/main/raw/images/logo_kalkulator_sederhana.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">Kalkulator Sederhana</h3>
 
@@ -47,7 +41,7 @@
 
 ### Built With
 
-* [![Java][Java]][Java-url]
+* ![Java](https://www.java.com)
 
 ## Getting Started
 
@@ -55,7 +49,7 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
 
 ### Prerequisites
 
-* [![OpenJDK][OpenJDK]][OpenJDK]
+* ![OpenJDK](https://openjdk.org/)
 
 ### Installation
 
@@ -73,7 +67,6 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
    javac kalkulator.java
    ```
 ## Usage
-
     ```sh
     java kalkulator
     ```
