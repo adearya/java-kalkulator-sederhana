@@ -72,6 +72,7 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
    ```
 ## Contact
 
-Ade Arya Bimantara - [@adearyabmtra](https://www.instagram.com/adearyabmtra/) - ade.aryabimantara@gmail.com
+Instagram - [@adearyabmtra](https://www.instagram.com/adearyabmtra/)
+Gmail - ade.aryabimantara@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
