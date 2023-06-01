@@ -67,9 +67,9 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
    javac kalkulator.java
    ```
 ## Usage
-    ```sh
-    java kalkulator
-    ```
+   ```sh
+   java kalkulator
+   ```
 ## Contact
 
 Ade Arya Bimantara - [@adearyabmtra](https://www.instagram.com/adearyabmtra/) - ade.aryabimantara@gmail.com
