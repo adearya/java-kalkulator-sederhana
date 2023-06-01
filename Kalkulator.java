@@ -37,9 +37,8 @@ public class Kalkulator {
             }
             System.out.println("Hasil: " + result);
             
-            System.out.print("Keluar Program? y/n: ");
+            System.out.print("Lakukan perhitungan kembali? y/n: ");
             keluar = input.next().charAt(0);
-            System.out.flush();
-        } while (keluar == 'n');
+        } while (keluar == 'y');
     }
 }
