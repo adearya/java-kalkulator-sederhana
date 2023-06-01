@@ -73,6 +73,7 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
 ## Contact
 
 Instagram - [@adearyabmtra](https://www.instagram.com/adearyabmtra/)
+<br />
 Gmail - ade.aryabimantara@gmail.com
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
