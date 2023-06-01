@@ -4,7 +4,7 @@ Program kalkulator sederhana dengan menggunakan bahasa pemrograman java. pembuat
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/ObyssSlime/CatPhotoApp/main/raw/images/kalkulator_sederhana.png)
+![App Screenshot](https://raw.githubusercontent.com/adearya/KalkulatorSederhana/main/raw/images/kalkulator_sederhana.png)
 
 ## Usage
 
