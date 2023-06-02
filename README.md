@@ -84,8 +84,19 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
    ```
 ## Contact
 
-Instagram - [@adearyabmtra](https://www.instagram.com/adearyabmtra/)
-<br />
-Gmail - ade.aryabimantara@gmail.com
+<li>
+  <div>
+    <a href="https://www.instagram.com/adearyabmtra">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </div>
+</li>
+<li>
+  <div>
+    <a href="ade.aryabimantara@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </div>
+</li>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
