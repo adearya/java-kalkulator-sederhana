@@ -41,7 +41,7 @@
 
 ### Built With
 
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)(https://www.java.com)
+* <img src="https://www.java.com" alt="Java" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 ## Getting Started
 
@@ -49,7 +49,7 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
 
 ### Prerequisites
 
-![OpenJDK]({https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white})(https://openjdk.org/)
+* < img src"https://openjdk.org" alt"OpenJDK"  data-canonical-src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 ### Installation
 
