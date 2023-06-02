@@ -41,13 +41,11 @@
 
 ### Built With
 
-<li>
-  <div>
-    <a href="https://www.java.com">
-       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </a>
-  </div>
-</li>
+<div>
+  <a href="https://www.java.com">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+</div>
 
 ## Getting Started
 
@@ -55,13 +53,11 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
 
 ### Prerequisites
 
-<li>
-  <div>
-    <a href="https://openjdk.org">
-      <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK" />
-    </a>
-  </div>
-</li>
+<div>
+  <a href="https://openjdk.org">
+    <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK" />
+  </a>
+</div>
 
 ### Installation
 
@@ -84,19 +80,15 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
    ```
 ## Contact
 
-<li>
-  <div>
-    <a href="https://www.instagram.com/adearyabmtra">
+<div>
+  <a href="https://www.instagram.com/adearyabmtra">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </div>
-</li>
-<li>
-  <div>
-    <a href="ade.aryabimantara@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </div>
-</li>
+  </a>
+</div>
+<div>
+  <a href="ade.aryabimantara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
