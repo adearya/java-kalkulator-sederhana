@@ -41,11 +41,13 @@
 
 ### Built With
 
-*<div>
-  <a href="https://www.java.com">
-     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-</div>
+<li>
+  <div>
+    <a href="https://www.java.com">
+       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </a>
+  </div>
+</li>
 
 ## Getting Started
 
@@ -53,12 +55,13 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
 
 ### Prerequisites
 
-*<div>
-  <a href="https://openjdk.org">
-    <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt"OpenJDK" />
-  </a>
-</div>
-
+<li>
+  <div>
+    <a href="https://openjdk.org">
+      <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK" />
+    </a>
+  </div>
+</li>
 
 ### Installation
 
