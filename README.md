@@ -86,7 +86,7 @@ Kalkulator sederhana ini dibuat dengan menggunakan bahasa pemrograman java dan h
   </a>
 </div>
 <div>
-  <a href="ade.aryabimantara@gmail.com">
+  <a href="mailto:ade.aryabimantara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
