@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNXmBtEPRWU0Utv1Z3DaN8zXj2vy6tdL_4XW8dgbt16Ikwzf_YMY4wU5YKC2q_GSI5uE&usqp=CAU" alt="Logo" width="80" height="80">
+<img src="https://cdn.pixabay.com/photo/2020/10/14/08/50/calculator-5653717_960_720.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">Kalkulator Sederhana</h3>
 
