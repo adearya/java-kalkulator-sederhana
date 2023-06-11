@@ -37,7 +37,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
 ![App Screenshot](https://raw.githubusercontent.com/adearya/KalkulatorSederhana/main/raw/images/kalkulator_sederhana.png)
+</div>
 
 ### Built With
 
