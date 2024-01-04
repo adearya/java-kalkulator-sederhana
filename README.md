@@ -8,7 +8,7 @@
 <h3 align="center">Kalkulator Sederhana</h3>
 
   <p align="center">
-  Program kalkulator sederhana dengan menggunakan bahasa pemrograman java. pembuatan kalkulator ini cukup sering digunakan untuk menguji pemahaman terkait dengan operator aritmatika dan struktur switch case
+  Program kalkulator sederhana dengan menggunakan bahasa pemrograman java. pembuatan kalkulator ini cukup sering digunakan untuk menguji pemahaman terkait dengan operator aritmatika dan struktur switch case coba
   </p>
 </div>
 
