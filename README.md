@@ -45,7 +45,7 @@
 </p>
 
 ### Built With
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) <br />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge) <br />
 <!-- add_built_with -->
 
 
@@ -59,7 +59,7 @@
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
-	<li>jdk-openjdk >= 24</li>
+    <li>jdk-openjdk >= 24</li>
     <!-- add_prerequisites -->
 </ul>
 
